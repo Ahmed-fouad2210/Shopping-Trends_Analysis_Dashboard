@@ -34,4 +34,4 @@ This end-to-end project explores shopping behavior trends using a real-world dat
 ## 📌 Author
 
 - **Ahmed Fouad**
-- Connect on [LinkedIn](www.linkedin.com/in/ahmedfouad2210)
+- Connect on [LinkedIn](https://www.linkedin.com/in/ahmedfouad2210)
